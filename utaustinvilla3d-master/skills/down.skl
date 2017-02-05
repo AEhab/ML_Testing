@@ -1,0 +1,19 @@
+STARTSKILL SKILL_DOWN
+
+STARTSTATE
+settar EFF_LA1 100 EFF_RA1 100  end
+wait .04 end
+ENDSTATE
+
+STARTSTATE
+settar EFF_LL2 -45  end
+wait 2 end
+ENDSTATE
+
+STARTSTATE
+settar EFF_RL1 -90  end
+wait 2 end
+ENDSTATE
+
+ENDSKILL 
+ 
