@@ -18,15 +18,6 @@ utwalk_fraction_in_air	1.624239099215
 utwalk_fraction_moving	0.808265160524
 utwalk_swing_ankle_offset	-0.507567807848
 //2ololo dana brdo
-utwalk_pid_tilt	0.15
-utwalk_pid_roll	0.2
-// Proportional controller values for controlling the COM 
-utwalk_pid_com_x	1.0
-utwalk_pid_com_y	1.0
-utwalk_pid_com_z	0.0
-// Proportional controller values for moving arms to control COM
-utwalk_pid_arm_x	0.0
-utwalk_pid_arm_y	0.0
 utwalk_pid_tilt	0.19220698479426948
 utwalk_pid_roll	0.0683336940436052
 utwalk_pid_com_x	1.3388420239842675
