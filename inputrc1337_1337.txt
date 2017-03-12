@@ -1,30 +1,32 @@
-utwalk_max_step_size_angle	1.613966039531
-utwalk_max_step_size_x	108.451837098102
-utwalk_max_step_size_y	156.728271564544
-utwalk_shift_amount	-21.582299340204
-utwalk_walk_height	152.230396564859
-utwalk_step_height	62.392247483354
-utwalk_fraction_still	0.191734839476
-utwalk_fraction_on_ground	-0.624239099215
-utwalk_phase_length	0.047512917145
-utwalk_pid_step_size_x	0.045815733497
-utwalk_pid_step_size_y	2.564423131018
-utwalk_pid_step_size_rot	0.571445906484
-utwalk_max_normal_com_error	55.023902772903
-utwalk_max_acceptable_com_error	102.373443382362
-utwalk_fwd_offset	-11.909173049240
-utwalk_fwd_offset_factor	0.922353422087
-utwalk_fraction_in_air	1.624239099215
-utwalk_fraction_moving	0.808265160524
-utwalk_swing_ankle_offset	-0.507567807848
+utwalk_max_step_size_angle	0.788210228289
+utwalk_max_step_size_x	78.262233668418
+utwalk_max_step_size_y	128.118179073689
+utwalk_shift_amount	-17.578520296677
+utwalk_walk_height	168.911569514823
+utwalk_step_height	90.172096259919
+utwalk_fraction_still	0.200120207200
+utwalk_fraction_on_ground	-1.022670385468
+utwalk_phase_length	0.045798386849
+utwalk_pid_step_size_x	0.020641767602
+utwalk_pid_step_size_y	0.037162336232
+utwalk_pid_step_size_rot	0.907488363145
+utwalk_max_normal_com_error	47.748894719219
+utwalk_max_acceptable_com_error	167.630953194611
+utwalk_fwd_offset	-27.223690215835
+utwalk_fwd_offset_factor	1.138790105741
+utwalk_fraction_in_air	2.022670385468
+utwalk_fraction_moving	0.799879792800
+utwalk_swing_ankle_offset	0.400015295712
 //2ololo dana brdo
-utwalk_pid_tilt	0.19220698479426948
-utwalk_pid_roll	0.0683336940436052
-utwalk_pid_com_x	1.3388420239842675
-utwalk_pid_com_y	1.0002121242348725
-utwalk_pid_com_z	0.04401545283135938
-utwalk_pid_arm_x	-0.25099065181854435
-utwalk_pid_arm_y	-0.24379385047916316
+utwalk_pid_tilt	0.15
+utwalk_pid_roll	0.2
+// Proportional controller values for controlling the COM 
+utwalk_pid_com_x	1.0
+utwalk_pid_com_y	1.0
+utwalk_pid_com_z	0.0
+// Proportional controller values for moving arms to control COM
+utwalk_pid_arm_x	0.0
+utwalk_pid_arm_y	0.0
 ##<--Walk parameters for positioning/dribbling-->##
 /*
 See the following paper for how these parameters were optimized: 
