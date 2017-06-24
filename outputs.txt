@@ -1,1 +1,2 @@
 best solution => f-value=-10.654 / fevals=200 / sigma=0.27738 / iter=0 / elaps=0ms / x= -0.190224 -0.0103134  -0.504866  -0.141772  0.0901992  0.0437767
+best solution => f-value=-10.654 / fevals=400 / sigma=0.282262 / iter=1 / elaps=0ms / x= -0.241952 -0.0136003  -0.508347  -0.298511   0.557377  0.0567822
