@@ -4,3 +4,4 @@ best solution => f-value=-6.95287e-310 / fevals=600 / sigma=0.277007 / iter=2 / 
 best solution => f-value=-6.95287e-310 / fevals=800 / sigma=0.284136 / iter=3 / elaps=0ms / x= -0.174486  -0.113592 -0.0225912  0.0382132   0.622045   0.167322
 best solution => f-value=-6.95287e-310 / fevals=1000 / sigma=0.284717 / iter=4 / elaps=0ms / x= -0.100189  -0.117597  -0.668674 -0.0962809   0.424448   0.306751
 best solution => f-value=-6.95287e-310 / fevals=1200 / sigma=0.280922 / iter=5 / elaps=0ms / x= -0.24589  -0.01912 -0.560557 -0.252636  0.280074 0.0920787
+best solution => f-value=-6.95287e-310 / fevals=1400 / sigma=0.29679 / iter=6 / elaps=0ms / x= -0.24369 -0.107958 -0.506756 -0.475391 0.0933397     0.361
