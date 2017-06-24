@@ -6,3 +6,4 @@ best solution => f-value=-10.654 / fevals=1000 / sigma=0.299349 / iter=4 / elaps
 best solution => f-value=-10.654 / fevals=1200 / sigma=0.297078 / iter=5 / elaps=0ms / x=-0.100014  -0.24959 -0.444393 -0.110786  0.187036  0.123362
 best solution => f-value=-10.654 / fevals=1400 / sigma=0.282972 / iter=6 / elaps=0ms / x=-0.108085 -0.165856  -1.11267 0.0415897  0.134878 0.0407931
 best solution => f-value=-10.654 / fevals=1600 / sigma=0.280696 / iter=7 / elaps=0ms / x= -0.248079 -0.0141673 -0.0196254  -0.223711   0.101222   0.389976
+best solution => f-value=-10.654 / fevals=1800 / sigma=0.282787 / iter=8 / elaps=0ms / x= -0.129278 -0.0632551   0.133824  -0.230597   0.110112   0.299358
