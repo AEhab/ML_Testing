@@ -1,7 +1,1 @@
-best solution => f-value=-6.95287e-310 / fevals=200 / sigma=0.264601 / iter=0 / elaps=0ms / x=-0.166188 -0.217016  -0.40601 0.0445165  0.108676 0.0180475
-best solution => f-value=-6.95287e-310 / fevals=400 / sigma=0.269811 / iter=1 / elaps=0ms / x= -0.102249 -0.0230931  -0.336532  0.0538455   0.253069   0.520749
-best solution => f-value=-6.95287e-310 / fevals=600 / sigma=0.277007 / iter=2 / elaps=0ms / x=-0.205907 -0.115296 -0.311113  0.418511 0.0989628 0.0014993
-best solution => f-value=-6.95287e-310 / fevals=800 / sigma=0.284136 / iter=3 / elaps=0ms / x= -0.174486  -0.113592 -0.0225912  0.0382132   0.622045   0.167322
-best solution => f-value=-6.95287e-310 / fevals=1000 / sigma=0.284717 / iter=4 / elaps=0ms / x= -0.100189  -0.117597  -0.668674 -0.0962809   0.424448   0.306751
-best solution => f-value=-6.95287e-310 / fevals=1200 / sigma=0.280922 / iter=5 / elaps=0ms / x= -0.24589  -0.01912 -0.560557 -0.252636  0.280074 0.0920787
-best solution => f-value=-6.95287e-310 / fevals=1400 / sigma=0.29679 / iter=6 / elaps=0ms / x= -0.24369 -0.107958 -0.506756 -0.475391 0.0933397     0.361
+best solution => f-value=-10.654 / fevals=200 / sigma=0.27738 / iter=0 / elaps=0ms / x= -0.190224 -0.0103134  -0.504866  -0.141772  0.0901992  0.0437767
